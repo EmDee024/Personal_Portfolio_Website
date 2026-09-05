@@ -31,3 +31,13 @@ nav ul {
   text-decoration: none;
   border-radius: 6px;
 }
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hero-img {
+  max-width: 200px;
+}

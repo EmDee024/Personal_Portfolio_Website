@@ -41,3 +41,19 @@ nav ul {
 .hero-img {
   max-width: 200px;
 }
+
+.btn-primary {
+  background-color: #6c4ef5;
+  color: white;
+  padding: 4px 6px;
+  border: none;
+  border-radius: 6px;
+}
+
+.btn-outline {
+  background-color: transparent;
+  color: white;
+  padding: 4px 6px;
+  border: 2px solid white;
+  border-radius: 6px;
+}

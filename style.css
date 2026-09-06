@@ -42,6 +42,10 @@ nav ul {
   max-width: 200px;
 }
 
+.btn-group {
+  display: flex;
+  gap: 15px;
+}
 .btn-primary {
   background-color: #6c4ef5;
   color: white;

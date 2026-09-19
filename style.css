@@ -66,4 +66,20 @@ nav ul {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
+  flex: 1;
+}
+
+.about {
+  display: flex;
+  justify-content: space-between;
+  align-self: center;
+}
+
+.about-text {
+  flex: 1;
+}
+
+.stat-box {
+  color: #6c4ef5;
+  font-size: 32px;
 }
